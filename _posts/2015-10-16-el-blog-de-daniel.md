@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "El Blog de 'Daniel'"
-date:   2014-10-16 16:08:45
+date:   2015-10-16 16:08:45
 description: Pequeña introducción a mi blog
 categories:
 - blog
