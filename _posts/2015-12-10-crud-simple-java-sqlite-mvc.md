@@ -13,7 +13,7 @@ categories:
 Hace ya mucho tiempo que no eh realizado proyectos con java.
 Hoy les presento este pequeño proyecto que realiza todas las funciones de un CRUD utilizando el patrón de diseño arquitectónico MVC(Modelo,Vista,Controlador).
 
-![My helpful screenshot]({{ site.url }}/assets/img/java_crud/ventana.png)
+![Ventana principal]({{ site.url }}/assets/img/java_crud/ventana.png)
 <!--more-->
 
 Como base de datos, usamos SQLITE con el driver de xerial.
@@ -26,7 +26,7 @@ En el repositorio se incluye la configuración de los IDE's, de tal manera que p
 
 En el algoritmo de arranque del Sistema, si es la primer ejecución o si la versión de la configuración es diferente a la del programa, va a mostrar la siguiente ventana:
 
-![My helpful screenshot]({{ site.url }}/assets/img/java_crud/boot.png)
+![Ventana de configuración]({{ site.url }}/assets/img/java_crud/boot.png)
 
 Al iniciar va a crear una carpeta llamada **crud** en la raíz del directorio de tu usuario, la cual contiene 2 archivos:
 
