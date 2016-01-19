@@ -130,7 +130,7 @@ a:active, a:hover, a:focus {
   outline: 0;
 }
 
-img {
+img:not(.emoji) {
   padding: 3px!important;
   border: 2px solid $base-04;
   display: block;
