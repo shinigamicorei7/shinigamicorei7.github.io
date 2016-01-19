@@ -65,3 +65,4 @@ Los usuarios son los siguientes:
 
 - [Base de datos](https://www.dropbox.com/s/4jndvcveyfoh5i3/sitema_de_admisiones.sql?dl=0)
 
+- [Documentación oficial](https://github.com/shinigamicorei7/sistema-admisiones/blob/master/assets/pdf/Sistema_de_Admisiones.pdf)
