@@ -6,5 +6,5 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'jemoji'
 gem 'github-pages', versions['github-pages']
-gem 'kramdown', versions['kramdown']
+gem 'jekyll-gist'
 gem 'rake'

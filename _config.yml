@@ -62,3 +62,9 @@ sass:
 
 gems:
   - jemoji
+  - jekyll-gist
+
+atom:
+  buildCommand:
+    - rake
+    - preview
