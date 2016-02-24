@@ -25,7 +25,7 @@ harmony:
     url: https://shinigamicorei7.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key:
+  google_analytics_key: UA-74259710-1
 
   # Profile links, leave blank to ignore
   social:
